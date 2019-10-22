@@ -2,7 +2,6 @@ require 'spec_helper'
 
 describe "#addition" do 
   it "adds two numbers together" do
-    sum = "adds two numbers together"
     expect(addition(5,4)).to eq(9)
   end
 end
