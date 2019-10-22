@@ -1,12 +1,12 @@
 
-def addition(num1,num2)
+def addition(num1, num2)
 num1 = "5"
 num2 = "4"
-sum = "#{num2 + num1)"
+sum = "#{num2 + num1)
 puts sum
 end
 
-addition(num1,num2)
+addition(num1, num2)
 
 def subtraction(num1, num2)
 
