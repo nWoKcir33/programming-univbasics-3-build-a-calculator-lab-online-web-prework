@@ -21,7 +21,7 @@ def multiplication(num1, num2)
 puts num1 * num2
 end
 
-multiplication
+multiplication(4,30)
 
 def modulo(num1, num2)
 
