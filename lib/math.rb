@@ -4,7 +4,7 @@ sum = #{num2 + num1)
 puts sum
 end
 
-addition(num1, num2)
+addition(5, 4)
 
 def subtraction(num1, num2)
 
