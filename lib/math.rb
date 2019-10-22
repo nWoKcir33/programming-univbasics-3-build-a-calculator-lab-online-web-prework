@@ -1,7 +1,6 @@
 
 def addition(num1, num2)
-sum = #{num2 + num1)
-puts sum
+puts num1 + num2
 end
 
 addition(5, 4)
