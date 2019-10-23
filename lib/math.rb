@@ -27,7 +27,7 @@ def modulo(num1, num2)
 puts num2 mod num1
 end
 
-modulo(num1, num2)
+modulo(5, num2)
 
 def square_root(num)
 
